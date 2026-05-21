@@ -2,13 +2,13 @@
 
 **Letztes Update:** 21.05.2026  
 **Strategie:** Mittelmäßig risikoreich | **Absicherung:** 10% Trailing Stop  
-**Gesamtwert (bereinigt):** ~590.815 € | **Gesamtgewinn:** +149.710 € (+33,9%)
+**Gesamtwert (bereinigt):** ~595.965 € | **Gesamtgewinn:** +150.381 € (+33,7%)
 
 ---
 
 ## Depot 1 — BBBank eG (mit Trailing Stop)
 
-**Einzahlung:** 372.505,25 € | **Wert:** ~471.819 € | **G/V:** +99.314 € (+26,67%)
+**Einzahlung:** 376.985,16 € | **Wert:** ~476.968 € | **G/V:** +99.983 € (+26,52%)
 
 | # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (21.05) | Wert | G/V % | Trail-Stop | Status |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -19,23 +19,23 @@
 | 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | 203,15 € | 30.473 € | -4,77% | 193,50 € | ⚠️ Beobachten |
 | 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 173,00 € | 175,80 € | 26.370 € | +1,62% | 159,48 € | ✅ Halten |
 | 7 | Everspin Technologies | A2AS0X | Aktie | 1 | 40,00 € | ~27 € | ~27 € | — | — | 👁️ Beobachtung |
-| 8 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,83% | 1,25 € | 🔴 Verkaufen |
-| 9 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 68,49 € | 75.339 € | +63,07% | 61,64 € | ✅ Halten |
-| 10 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | 👁️ Beobachtung |
-| 11 | Nokia OYJ | 870737 | Aktie | 2.800 | 10,71 € | 11,30 € | 31.640 € | +5,51% | 11,30 € | 🔴 Stop erreicht! |
-| 12 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 129,79 € ² | 40.235 € | 0,00% | 115,00 € | ✅ Halten |
-| 13 | NVIDIA Corp. | 918422 | Aktie | 1 | 167,42 € | 193,30 € ¹ | 193 € | +15,46% | — | 👁️ Beobachtung |
-| 14 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 264,10 € | 76.589 € | +80,89% | 237,69 € | ✅ Halten |
-| 15 | Siemens Energy AG | ENER6Y | Aktie | 145 | 176,00 € | 171,38 € | 24.850 € | -2,63% | 156,71 € | ⚠️ Beobachten |
+| 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 39,63 € | 29.999 € | 0,00% | 35,67 € | ✅ Halten |
+| 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,83% | 1,25 € | 🔴 Verkaufen |
+| 10 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 68,49 € | 75.339 € | +63,07% | 61,64 € | ✅ Halten |
+| 11 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | 👁️ Beobachtung |
+| 12 | Nokia OYJ | 870737 | Aktie | 2.800 | 10,71 € | 11,30 € | 31.640 € | +5,51% | 11,30 € | 🔴 Stop erreicht! |
+| 13 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 129,79 € ² | 40.235 € | 0,00% | 115,00 € | ✅ Halten |
+| 14 | NVIDIA Corp. | 918422 | Aktie | 1 | 167,42 € | 193,30 € ¹ | 193 € | +15,46% | — | 👁️ Beobachtung |
+| 15 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 264,10 € | 76.589 € | +80,89% | 237,69 € | ✅ Halten |
 | 16 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | ✅ Halten |
 | 17 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 66,35 € ¹ | 19.216 € | -18,97% | 59,72 € | ⚠️ Beobachten |
 | 18 | Viavi Solutions Inc. | A14XLZ | Aktie | 425 | 28,61 € | 47,22 € | 20.069 € | +65,05% | 42,50 € | ✅ Halten |
 
 > ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis für diesen Fonds/diese Aktie abrufbar).  
-> ² Kaufkurs 19.05.2026: 119,04 CHF × 1,0903 (EUR/CHF 0,9172) = 129,79 €. Kurs aktuell unverändert angesetzt.
+> ² Kaufkurs 19.05.2026: 119,04 CHF × 1,0903 (EUR/CHF 0,9172) = 129,79 €.
 
 ### Legende Beobachtungspositionen Depot 1
-> Positionen 7 (Everspin), 10 (Micron), 13 (Nvidia) sind **fiktive Beobachtungspositionen** (je 1 Stück) zur Kursverfolgung — kein aktives Risikomanagement erforderlich.
+> Positionen 7 (Everspin), 11 (Micron), 14 (Nvidia) sind **fiktive Beobachtungspositionen** (je 1 Stück) zur Kursverfolgung — kein aktives Risikomanagement erforderlich.
 
 ---
 
@@ -78,9 +78,9 @@
 | 🔴 Sofort | **Silber-Zertifikat klären** | Depot 2 | Nicht gelistet, Wert nicht abrufbar |
 | ⚠️ Dringend | **Dell beobachten** | Dell Technologies | Nur 4,75% über korrektem Trailing Stop (ATH 215 € → Stop 193,50 €) |
 | 🟠 Kurzfristig | **Trailing Stops setzen** | Depot 2 (alle) | Kein Schutz vorhanden |
-| 🟠 Kurzfristig | **Tech-Anteil reduzieren** | Depot 1 | ~65% Tech für mittl. Risiko zu hoch |
+| 🟠 Kurzfristig | **Tech-Anteil reduzieren** | Depot 1 | ~60% Tech für mittl. Risiko zu hoch |
 | 🟡 Mittelfristig | **Anleihenkomponente** | Beide | 10–15% Anleihen für mittl. Risikoprofil |
-| 🟡 Mittelfristig | **Klumpenrisiko reduzieren** | Siemens/Infineon | Top-3 = ~49% des Gesamtdepots |
+| 🟡 Mittelfristig | **Klumpenrisiko reduzieren** | Siemens/Infineon | Top-3 = ~47% des Gesamtdepots |
 
 ---
 
@@ -88,10 +88,11 @@
 
 | Kennzahl | Wert |
 |---|---|
-| Gesamtinvestiert | 441.105,25 € |
-| Gesamtwert (bereinigt inkl. Silber) | **~590.815 €** |
-| Gesamtgewinn | **+149.710 € (+33,9%)** |
-| Größte Position | Siemens AG (76.589 €, 13,0%) |
+| Gesamtinvestiert | 445.585,16 € |
+| Gesamtwert (bereinigt inkl. Silber) | **~595.965 €** |
+| Gesamtgewinn | **+150.381 € (+33,7%)** |
+| Realisierte Verluste (kumuliert) | Siemens Energy: –1.160 € (168 € vs. EK 176 €) |
+| Größte Position | Siemens AG (76.589 €, 12,8%) |
 | Stärkster Performer | Silber (+247,8%) |
 | Schwächster Performer | Ballard Power (-86,1%) |
 | Tech-Anteil | ~60% (Ziel: max. 40%) |
@@ -104,7 +105,8 @@
 
 | Datum | Änderung |
 |---|---|
-| 21.05.2026 | Novartis AG (310 Stk.) als aktive Position in Depot 1 eingetragen. Kaufdatum 19.05.2026, Kaufkurs 129,79 € (119,04 CHF). Trailing-Stop-Limit: 115 €, 10% trailing. Watchlist-Status auf ✅ Gekauft gesetzt. |
-| 21.05.2026 | Novartis: Trailing-Stop-Limit notiert — Stop 115 €, 10% Trailing. |
+| 21.05.2026 | **Siemens Energy verkauft:** 145 Stück zu 168 € = 24.360 € Erlös. Realisierter Verlust: –1.160 € (EK 176 €). Position aus Depot 1 entfernt. |
+| 21.05.2026 | **Fresenius SE (578560) gekauft:** 757 Stück zu 39,63 € = 29.999 €. Trailing Stop initial: 35,67 € (10%). In Depot 1 eingetragen. |
+| 21.05.2026 | Novartis AG (310 Stk.) als aktive Position in Depot 1 eingetragen. Kaufdatum 19.05.2026, Kaufkurs 129,79 € (119,04 CHF). Trailing-Stop-Limit: 115 €, 10% trailing. |
 | 21.05.2026 | Tagescheck: Nokia Trailing Stop ausgelöst (11,30 €); Dell ⚠️ nur 4,75% über korrektem Stop. Stops nachgezogen für AMD (→361€), Caterpillar (→707,40€), Dell (→193,50€), Nokia (→11,30€), Infineon (→61,64€), Siemens AG (→237,69€), Viavi (→42,50€). Silber auf 65,26 €/oz gesunken (52.208 €). Everspin über Einstiegsziel nach $40M Navy-Vertrag. Ballard Power +16% Woche (Weichai-Rückzug), Verkaufsempfehlung bleibt. Heidelberger EBITDA-Marge auf 6,6% gefallen. Siemens Energy und Infineon mit starken Q2-Zahlen und angehobener Prognose. |
 | 18.05.2026 | Erstanlage — beide Depots erfasst, Silber mit Marktpreis 66,29 €/oz bewertet |
