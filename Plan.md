@@ -61,7 +61,7 @@
 
 | Wertpapier | WKN | Sektor | Interesse | Notiz | Ziel-Einstieg |
 |---|---|---|---|---|---|
-| Novartis AG | 904278 | Healthcare | 🟢 Kaufkandidat | KGV 16,5, Dividende 3,17%, Buyback läuft. Kurs 119,04 CHF (19.05) — fast am Ziel! Limit-Order prüfen. | ~120 CHF, Trail-Stop bei Kauf: 10% |
+| Novartis AG | 904278 | Healthcare | 🟢 Kaufkandidat | KGV 16,5, Dividende 3,17%, Buyback läuft. Kurs 119,04 CHF (19.05) ~129,79 €. Trailing-Stop-Limit gesetzt: **Stop 115 €, Trailing 10%**. Bei Kauf sofort aktiv setzen. | ~120 CHF (~130 €), Trail-Stop: 115 € initial, 10% trailing |
 | Everspin Technologies | A2AS0X | Halbleiter/Rüstung | 🟡 Beobachten | $40M Navy-Vertrag Mai 2026 — Kurs explodierte auf $39,86 (11.05), jetzt ~$31,72 (20.05). Über Einstiegsziel — auf weitere Konsolidierung warten. | $26–30 (USD) |
 | Rheinmetall AG | 703000 | Rüstung | 🟡 Beobachten | Rearm Europe 800 Mrd., stark gelaufen — Einstieg via ETF prüfen | Nach Konsolidierung |
 
@@ -78,7 +78,7 @@
 | ⚠️ Dringend | **Dell beobachten** | Dell Technologies | Nur 4,75% über korrektem Trailing Stop (ATH 215 € → Stop 193,50 €). Bei weiterem Rückfall ggf. Stopp-Limit setzen. |
 | 🟠 Kurzfristig | **Trailing Stops setzen** | Depot 2 (alle) | Kein Schutz vorhanden |
 | 🟠 Kurzfristig | **Tech-Anteil reduzieren** | Depot 1 | ~65% Tech für mittl. Risiko zu hoch |
-| 🟠 Kurzfristig | **Novartis kaufen** | — | Bei ~119 CHF fast am Ziel; Healthcare-Diversifikation, KGV 16,5 |
+| 🟠 Kurzfristig | **Novartis kaufen** | — | Bei ~119 CHF fast am Ziel; Healthcare-Diversifikation, KGV 16,5. Trailing-Stop-Limit vorgemerkt: Stop 115 €, 10% trailing. |
 | 🟡 Mittelfristig | **Anleihenkomponente** | Beide | 10–15% Anleihen für mittl. Risikoprofil |
 | 🟡 Mittelfristig | **Klumpenrisiko reduzieren** | Siemens/Infineon | Top-3 = ~49% des Gesamtdepots |
 
@@ -104,5 +104,6 @@
 
 | Datum | Änderung |
 |---|---|
+| 21.05.2026 | Novartis: Trailing-Stop-Limit notiert — Stop 115 €, 10% Trailing. Bei Kauf sofort setzen. |
 | 21.05.2026 | Tagescheck: Nokia Trailing Stop ausgelöst (11,30 €); Dell ⚠️ nur 4,75% über korrektem Stop. Stops nachgezogen für AMD (→361€), Caterpillar (→707,40€), Dell (→193,50€), Nokia (→11,30€), Infineon (→61,64€), Siemens AG (→237,69€), Viavi (→42,50€). Silber auf 65,26 €/oz gesunken (52.208 €). Novartis auf 119,04 CHF — fast am Einstiegsziel. Everspin über Einstiegsziel nach $40M Navy-Vertrag. Ballard Power +16% Woche (Weichai-Rückzug), Verkaufsempfehlung bleibt. Heidelberger EBITDA-Marge auf 6,6% gefallen. Siemens Energy und Infineon mit starken Q2-Zahlen und angehobener Prognose. |
 | 18.05.2026 | Erstanlage — beide Depots erfasst, Silber mit Marktpreis 66,29 €/oz bewertet |
