@@ -8,7 +8,7 @@
 
 ## Depot 1 — BBBank eG (mit Trailing Stop)
 
-**Einzahlung:** 376.985,16 € | **Wert:** ~476.968 € | **G/V:** +99.983 € (+26,52%)
+**Einzahlung:** 346.997,16 € | **Wert:** ~445.328 € | **G/V:** +98.331 € (+28,34%)
 
 | # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (21.05) | Wert | G/V % | Trail-Stop | Status |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -23,7 +23,6 @@
 | 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,83% | 1,25 € | 🔴 Verkaufen |
 | 10 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 68,49 € | 75.339 € | +63,07% | 61,64 € | ✅ Halten |
 | 11 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | 👁️ Beobachtung |
-| 12 | Nokia OYJ | 870737 | Aktie | 2.800 | 10,71 € | 11,30 € | 31.640 € | +5,51% | 11,30 € | 🔴 Stop erreicht! |
 | 13 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 129,79 € ² | 40.235 € | 0,00% | 115,00 € | ✅ Halten |
 | 14 | NVIDIA Corp. | 918422 | Aktie | 1 | 167,42 € | 193,30 € ¹ | 193 € | +15,46% | — | 👁️ Beobachtung |
 | 15 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 264,10 € | 76.589 € | +80,89% | 237,69 € | ✅ Halten |
@@ -72,7 +71,6 @@
 
 | Priorität | Maßnahme | Position | Begründung |
 |---|---|---|---|
-| 🔴 Sofort | **Verkaufen** | Nokia OYJ | Trailing Stop 11,30 € erreicht (Peak 12,55 € × 0,90). Kurs 11,30 €. |
 | 🔴 Sofort | **Verkaufen** | Ballard Power | -86%, keine Erholungsperspektive |
 | 🔴 Sofort | **Verkaufen** | Heidelberger Druck | -60%, Q2-Zahlen enttäuschend: EBITDA-Marge nur 6,6% |
 | 🔴 Sofort | **Silber-Zertifikat klären** | Depot 2 | Nicht gelistet, Wert nicht abrufbar |
@@ -88,16 +86,16 @@
 
 | Kennzahl | Wert |
 |---|---|
-| Gesamtinvestiert | 445.585,16 € |
-| Gesamtwert (bereinigt inkl. Silber) | **~595.965 €** |
-| Gesamtgewinn | **+150.381 € (+33,7%)** |
-| Realisierte Verluste (kumuliert) | Siemens Energy: –1.160 € (168 € vs. EK 176 €) |
+| Gesamtinvestiert | 415.597,16 € |
+| Gesamtwert (bereinigt inkl. Silber) | **~564.325 €** |
+| Gesamtgewinn (unrealisiert) | **+148.728 € (+35,8%)** |
+| Realisierte G/V (kumuliert) | Nokia: +1.652 € ✅ | Siemens Energy: –1.160 € ❌ | Netto: **+492 €** |
 | Größte Position | Siemens AG (76.589 €, 12,8%) |
 | Stärkster Performer | Silber (+247,8%) |
 | Schwächster Performer | Ballard Power (-86,1%) |
 | Tech-Anteil | ~60% (Ziel: max. 40%) |
 | Trailing-Stop-Schutz | Depot 1: ✅ | Depot 2: ❌ |
-| Aktuellste Warnung | Nokia: Trailing Stop 11,30 € ausgelöst |
+| Aktuellste Warnung | Dell: nur 4,75% über Trailing Stop 193,50 € |
 
 ---
 
@@ -105,6 +103,7 @@
 
 | Datum | Änderung |
 |---|---|
+| 21.05.2026 | **Nokia OYJ verkauft:** 2.800 Stück zu 11,30 € = 31.640 € Erlös. Trailing Stop ausgelöst (ATH 12,55 € × 0,90). Realisierter Gewinn: +1.652 € (EK 10,71 €). Position aus Depot 1 entfernt. |
 | 21.05.2026 | **Siemens Energy verkauft:** 145 Stück zu 168 € = 24.360 € Erlös. Realisierter Verlust: –1.160 € (EK 176 €). Position aus Depot 1 entfernt. |
 | 21.05.2026 | **Fresenius SE (578560) gekauft:** 757 Stück zu 39,63 € = 29.999 €. Trailing Stop initial: 35,67 € (10%). In Depot 1 eingetragen. |
 | 21.05.2026 | Novartis AG (310 Stk.) als aktive Position in Depot 1 eingetragen. Kaufdatum 19.05.2026, Kaufkurs 129,79 € (119,04 CHF). Trailing-Stop-Limit: 115 €, 10% trailing. |
