@@ -2,13 +2,13 @@
 
 **Letztes Update:** 22.05.2026  
 **Strategie:** Mittelmäßig risikoreich | **Absicherung:** 10% Trailing Stop  
-**Gesamtwert (bereinigt):** ~565.664 € | **Gesamtgewinn:** +150.067 € (+36,1%)
+**Gesamtwert (bereinigt):** ~565.215 € | **Gesamtgewinn:** +142.157 € (+33,6%)
 
 ---
 
 ## Depot 1 — BBBank eG (mit Trailing Stop)
 
-**Einzahlung:** 346.997,16 € | **Wert:** ~446.101 € | **G/V:** +99.104 € (+28,6%)
+**Einzahlung:** 354.458,00 € | **Wert:** ~445.652 € | **G/V:** +91.194 € (+25,7%)
 
 | # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (22.05) | Wert | G/V % | Trail-Stop | Status |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -28,11 +28,10 @@
 | 15 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 262,55 € | 76.140 € | +79,83% | 237,69 € | ✅ Halten |
 | 16 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | ✅ Halten |
 | 17 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 66,35 € ¹ | 19.216 € | -18,97% | 59,72 € | ⚠️ Beobachten |
-| 18 | Viavi Solutions Inc. | A14XLZ | Aktie | 425 | 28,61 € | 47,22 € ² | 20.069 € | +65,05% | 42,50 € | ✅ Halten |
+| 18 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 90,00 € | 19.620 € | 0,00% | 81,00 € | ✅ Halten |
 
 > ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis für diesen Fonds/diese Aktie abrufbar).  
-> ² Kurs vom 21.05.2026 (aktuellerer Preis nicht verfügbar).  
-> ³ Schätzwert auf Basis letzter verfügbarer Daten (16.–20.05.2026).
+> ² Schätzwert auf Basis letzter verfügbarer Daten (16.–20.05.2026).
 
 ### Legende Beobachtungspositionen Depot 1
 > Positionen 7 (Everspin), 11 (Micron), 14 (Nvidia) sind **fiktive Beobachtungspositionen** (je 1 Stück) zur Kursverfolgung — kein aktives Risikomanagement erforderlich.
@@ -83,14 +82,14 @@
 
 ---
 
-## Gesamtbild (Stand 22.05.2026)
+## Gesamtbild (Stand 22.05.2026 — nach Trades)
 
 | Kennzahl | Wert |
 |---|---|
-| Gesamtinvestiert | 415.597,16 € |
-| Gesamtwert (bereinigt inkl. Silber) | **~565.664 €** |
-| Gesamtgewinn (unrealisiert) | **+150.067 € (+36,1%)** |
-| Realisierte G/V (kumuliert) | Nokia: +1.652 € ✅ \| Siemens Energy: –1.160 € ❌ \| Netto: **+492 €** |
+| Gesamtinvestiert | 423.058,00 € |
+| Gesamtwert (bereinigt inkl. Silber) | **~565.215 €** |
+| Gesamtgewinn (unrealisiert) | **+142.157 € (+33,6%)** |
+| Realisierte G/V (kumuliert) | Nokia: +1.652 € ✅ \| Siemens Energy: –1.160 € ❌ \| Viavi: +7.909 € ✅ \| Netto: **+8.401 €** |
 | Größte Position | Siemens AG (76.140 €, 13,5%) |
 | Stärkster Performer | Silber (+251,7%) |
 | Schwächster Performer | Ballard Power (-84,6%) |
@@ -104,6 +103,8 @@
 
 | Datum | Änderung |
 |---|---|
+| 22.05.2026 | **Viavi Solutions verkauft:** 425 Stück zu ~47,22 € = ~20.069 € Erlös. Realisierter Gewinn: ~+7.909 € (EK 28,61 €). Position aus Depot 1 entfernt. |
+| 22.05.2026 | **Süss MicroTec SE (A1K023) gekauft:** 218 Stück zu 90,00 € = 19.620 €. Trailing Stop initial: 81,00 € (10%). In Depot 1 eingetragen. |
 | 22.05.2026 | Tagescheck: 🔴 **Elmos** Trailing Stop ausgelöst — ATH 204,50 € (08.05) → Stop auf 184 € nachgezogen; Kurs 183,20 € liegt UNTER neuem Stop → SOFORT VERKAUFEN. ⚠️ **Dell**: ATH 263,70 USD (09.05) = 227,60 € → Stop auf 205 € erhöht (war 193,50 €); Kurs 212,65 €, nur 3,7% Puffer — DRINGEND beobachten. ⚠️ **CAT**: 744,80 €, Stop 707,40 €, Abstand genau 5,0%. Stops aktualisiert: AMD 361→364 € (ATH 404,97 €), Infineon 61,64→62,23 € (10-J.-Hoch 69,14 €), Novartis 115→118 € (ATH 130,86 €), Silber 58,73→59,37 €/oz. Infineon +43% YTD, ITC-Patent-Sieg vs. Innoscience. **Siemens Energy** (verkauft): Q2-Rekordumsatz, Aufträge +29,5%, Prognose erhöht auf 14–16% Wachstum. **Nokia** (verkauft): +110% YTD, 16-Jahres-Hoch, Nvidia-KI-Partnerschaft. **Heidelberger**: Q4-EBITDA-Marge 5,4%; Neues Flexo-System (interpack), Abwärtstrend ungebrochen. **Ballard** +60% seit April (Q1-Turnaround, Buslot-Verträge Wrightbus/Solaris), Verkaufsempfehlung bleibt. **Novartis**: Neue Studiendaten (Pluvicto, Kisqali); CHF 118,68, leicht unter CHF-Kaufkurs (119,04). **Everspin**: 31,72 USD — über Einstiegsziel, warten. Silber 65,97 €/oz (+1% täglich, −12,8% wöchentlich). |
 | 21.05.2026 | **Nokia OYJ verkauft:** 2.800 Stück zu 11,30 € = 31.640 € Erlös. Trailing Stop ausgelöst (ATH 12,55 € × 0,90). Realisierter Gewinn: +1.652 € (EK 10,71 €). Position aus Depot 1 entfernt. |
 | 21.05.2026 | **Siemens Energy verkauft:** 145 Stück zu 168 € = 24.360 € Erlös. Realisierter Verlust: –1.160 € (EK 176 €). Position aus Depot 1 entfernt. |
