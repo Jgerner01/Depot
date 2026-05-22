@@ -19,7 +19,7 @@
 | 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | 212,65 € | 31.898 € | -0,32% | 205,00 € | ⚠️ DRINGEND |
 | 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 173,00 € | 183,20 € | 27.480 € | +5,90% | 184,00 € | 🔴 STOP AUSGELÖST |
 | 7 | Everspin Technologies | A2AS0X | Aktie | 1 | 40,00 € | ~27,38 € ³ | ~27 € | — | — | 👁️ Beobachtung |
-| 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 38,65 € ³ | 29.258 € | -2,47% | 35,67 € | ⚠️ Beobachten |
+| 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 40,19 € ² | 30.424 € | +1,41% | 36,17 € | ✅ Halten |
 | 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,40 € | 420 € | -58,94% | 1,25 € | 🔴 Verkaufen |
 | 10 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 69,14 € | 76.054 € | +64,62% | 62,23 € | ✅ Halten |
 | 11 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | 👁️ Beobachtung |
@@ -103,6 +103,7 @@
 
 | Datum | Änderung |
 |---|---|
+| 22.05.2026 | **Fresenius**: Q1 besser als erwartet, Prognose angehoben (+4–7% Umsatz, +5–10% EPS). CEO Sen kauft eigene Aktien. Kurs 40,19 € (20.05), über 20-Tage-Linie. Dividende 1,05 € zahlbar 27.05. Stop auf 36,17 € nachgezogen. Status: ✅ Halten. |
 | 22.05.2026 | **Viavi Solutions verkauft:** 425 Stück zu ~47,22 € = ~20.069 € Erlös. Realisierter Gewinn: ~+7.909 € (EK 28,61 €). Position aus Depot 1 entfernt. |
 | 22.05.2026 | **Süss MicroTec SE (A1K023) gekauft:** 218 Stück zu 90,00 € = 19.620 €. Monitoring-Trail: 81,00 € (10%-Regel). Brokerorder separat auf 80,00 € / 15% Trailing gesetzt (wegen höherer Volatilität). |
 | 22.05.2026 | Tagescheck: 🔴 **Elmos** Trailing Stop ausgelöst — ATH 204,50 € (08.05) → Stop auf 184 € nachgezogen; Kurs 183,20 € liegt UNTER neuem Stop → SOFORT VERKAUFEN. ⚠️ **Dell**: ATH 263,70 USD (09.05) = 227,60 € → Stop auf 205 € erhöht (war 193,50 €); Kurs 212,65 €, nur 3,7% Puffer — DRINGEND beobachten. ⚠️ **CAT**: 744,80 €, Stop 707,40 €, Abstand genau 5,0%. Stops aktualisiert: AMD 361→364 € (ATH 404,97 €), Infineon 61,64→62,23 € (10-J.-Hoch 69,14 €), Novartis 115→118 € (ATH 130,86 €), Silber 58,73→59,37 €/oz. Infineon +43% YTD, ITC-Patent-Sieg vs. Innoscience. **Siemens Energy** (verkauft): Q2-Rekordumsatz, Aufträge +29,5%, Prognose erhöht auf 14–16% Wachstum. **Nokia** (verkauft): +110% YTD, 16-Jahres-Hoch, Nvidia-KI-Partnerschaft. **Heidelberger**: Q4-EBITDA-Marge 5,4%; Neues Flexo-System (interpack), Abwärtstrend ungebrochen. **Ballard** +60% seit April (Q1-Turnaround, Buslot-Verträge Wrightbus/Solaris), Verkaufsempfehlung bleibt. **Novartis**: Neue Studiendaten (Pluvicto, Kisqali); CHF 118,68, leicht unter CHF-Kaufkurs (119,04). **Everspin**: 31,72 USD — über Einstiegsziel, warten. Silber 65,97 €/oz (+1% täglich, −12,8% wöchentlich). |
