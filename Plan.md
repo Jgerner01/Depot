@@ -17,7 +17,7 @@
 | 3 | BBBank Dynamik Union | 532656 | Fonds | 48,62 | 46,81 € | 126,38 € ¹ | 6.145 € | +169,96% | 113,74 € | ✅ Halten |
 | 4 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 744,20 € | 40.931 € | +1,06% | 707,40 € | ⚠️ DRINGEND |
 | 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | 243,85 € | 36.578 € | +14,28% | 219,00 € | ✅ Halten |
-| 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 173,00 € | 180,80 € | 27.120 € | +4,51% | 184,00 € | 🔴 STOP AUSGELÖST |
+| 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | ⚠️ Beobachten |
 | 7 | Everspin Technologies | A2AS0X | Aktie | 1 | 40,00 € | ~34,38 € ³ | ~34 € | — | — | 👁️ Beobachtung |
 | 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 40,19 € ² | 30.424 € | +1,41% | 36,17 € | ✅ Halten |
 | 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,82% | 1,25 € | 🔴 Verkaufen |
@@ -71,7 +71,7 @@
 
 | Priorität | Maßnahme | Position | Begründung |
 |---|---|---|---|
-| 🔴 Sofort | **Verkaufen** | Elmos Semiconductor | Trailing Stop ausgelöst: ATH 204,50 € (08.05) → Stop 184 €; Kurs 180,80 € (25.05) = –1,8% UNTER Stop. Seit 22.05 ausstehend! |
+| ⚠️ Beobachten | **Stop überwachen** | Elmos Semiconductor | 15%-Trailing-Stop bei 160 € (gesetzt 13.05, Ref.-Kurs ~188 €). Kurs 180,80 € = +11,5% über Stop. Fällt unter ATH 204,50 € weiter ab — Stop nachziehen falls neues Hoch. |
 | 🔴 Sofort | **Verkaufen** | Ballard Power | -84,6%; trotz Q1-Turnaround strukturell nicht erholt; kein Halten sinnvoll |
 | 🔴 Sofort | **Verkaufen** | Heidelberger Druck | -59%; Q4-EBITDA-Marge 5,4%; anhaltender Abwärtstrend |
 | 🔴 Sofort | **Silber-Zertifikat klären** | Depot 2 | Nicht gelistet, Wert nicht direkt abrufbar |
@@ -97,7 +97,7 @@
 | Schwächster Performer | Ballard Power (-83,7%) |
 | Tech-Anteil | ~62% (Ziel: max. 40%) |
 | Trailing-Stop-Schutz | Depot 1: ✅ \| Depot 2: ❌ |
-| Aktuellste Warnung | 🔴 Elmos Stop ausgelöst (180,80 € < 184 €) \| ⚠️ CAT 4,95% über Stop (707,40 €) \| ⚠️ Silber 8,8% über Stop |
+| Aktuellste Warnung | ⚠️ CAT 4,95% über Stop (707,40 €) \| ⚠️ Silber 8,8% über Stop \| ⚠️ Elmos 11,5% über Stop (160 €, 15%-Trailing, gesetzt 13.05) |
 
 ---
 
@@ -105,6 +105,7 @@
 
 | Datum | Änderung |
 |---|---|
+| 25.05.2026 | **Korrektur Elmos:** Trail-Stop war falsch mit 184 € (10%) eingetragen. Korrekt: **160 € mit 15% Abstand**, gesetzt am 13.05.2026 (Ref.-Kurs ~188 €). Kaufkurs korrigiert: 173 € → **172 €**. Status von 🔴 STOP AUSGELÖST auf ⚠️ Beobachten geändert. Kurs 180,80 € liegt +11,5% über dem echten Stop. |
 | 25.05.2026 | Tagescheck: 🔴 **Elmos** weiterhin unter Stop — Kurs 180,80 € < Stop 184 € (–1,8%): SOFORT VERKAUFEN. ⚠️ **Caterpillar** 744,20 €, Stop 707,40 € — nur noch **4,95% Puffer**: DRINGEND beobachten. ⚠️ **Silber** 65,07 €/oz, Stop 59,37 €/oz — **8,8% Puffer**: ETC-Übertragung dringend erforderlich. **Dell entschärft:** ATH 243,85 € (22.05) → Stop auf 219 € angehoben, Puffer jetzt 10,2%. Trailing-Stops nachgezogen: AMD 364→373 € (ATH 414,60 €, 22.05), Infineon 62,23→66 € (ATH 73,42 €, 22.05 — neues 10-Jahres-Hoch!), Siemens AG 237,69→244 € (ATH 271,60 €, 14.05), Süss MicroTec 81→84 € (ATH 93,25 €, 14.05). **Infineon** +8% am 22.05 auf 73,42 € (erstmals über 70 € seit 2000): ITC-Importstopp gegen Innoscience (GaN-Patentsieg), KI-Rechenzentrum-Umsatzziel 1,5 Mrd.€ 2026 bestätigt. **Siemens AG** Q2-Bericht 13.05: +6% Umsatz bereinigt, FCF +71%, neues Rückkaufprogramm 6 Mrd.€; Goldman Sachs Kursziel auf 290 € erhöht. **Ballard** Q1-Turnaround (+26% Umsatz, EPS-Beat, 3. Quartal positiver Bruttomarge), neue Bus-Verträge Solaris/Wrightbus/New Flyer — Kurs von 3,25 $ auf ~5,33 $ seit 05.05; trotzdem bleibt **Verkaufsempfehlung** (strukturell -83,7% vom EK). **Heidelberger** Q4-Zahlen 19.05: EBITDA-Marge 6,6% (Ziel 7,1% verfehlt), neues ONBERG Drohnenabwehr-JV, Flexo-Weltpremiere interpack — **Verkaufsempfehlung** bleibt. **Novartis** ~130,70 € / 118,54 CHF: neue Studiendaten Pluvicto & Kisqali (21./17.05), $23 Mrd. US-Investition bestätigt, Jahresprognose 2026 gehalten. **Everspin (MRAM)** ~39,86 USD (~34 €) — **weit über** Einstiegsziel $26–30 (durch $40M US-Navy-Vertrag), Gelegenheit verpasst. **Nokia** (bereits verkauft): neues 10-Jahres-Hoch 13,28 € am 22.05, Morgan Stanley Ziel 14 €. Silber: 65,07 €/oz (–1,4% seit 22.05). EUR/USD: 1,1594. |
 | 22.05.2026 | **Fresenius**: Q1 besser als erwartet, Prognose angehoben (+4–7% Umsatz, +5–10% EPS). CEO Sen kauft eigene Aktien. Kurs 40,19 € (20.05), über 20-Tage-Linie. Dividende 1,05 € zahlbar 27.05. Stop auf 36,17 € nachgezogen. Status: ✅ Halten. |
 | 22.05.2026 | **Viavi Solutions verkauft:** 425 Stück zu ~47,22 € = ~20.069 € Erlös. Realisierter Gewinn: ~+7.909 € (EK 28,61 €). Position aus Depot 1 entfernt. |
