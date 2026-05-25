@@ -10,30 +10,31 @@
 
 **Einzahlung:** 354.458,00 € | **Wert:** ~455.600 € | **G/V:** +101.142 € (+28,5%)
 
-| # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (25.05) | Wert | G/V % | Trail-Stop | Status |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Advanced Micro Devices | 863186 | Aktie | 30 | 352,50 € | 402,65 € | 12.080 € | +14,23% | 373,00 € | ✅ Halten |
-| 2 | Ballard Power Systems | A0RENB | Aktie | 847 | 29,30 € | 4,78 € | 4.049 € | -83,69% | 3,15 € | 🔴 Verkaufen |
-| 3 | BBBank Dynamik Union | 532656 | Fonds | 48,62 | 46,81 € | 126,38 € ¹ | 6.145 € | +169,96% | 113,74 € | ✅ Halten |
-| 4 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 744,20 € | 40.931 € | +1,06% | 707,40 € | ⚠️ DRINGEND |
-| 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | 243,85 € | 36.578 € | +14,28% | 219,00 € | ✅ Halten |
-| 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | ⚠️ Beobachten |
-| 7 | Everspin Technologies | A2AS0X | Aktie | 1 | 40,00 € | ~34,38 € ³ | ~34 € | — | — | 👁️ Beobachtung |
-| 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 40,19 € ² | 30.424 € | +1,41% | 36,17 € | ✅ Halten |
-| 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,82% | 1,25 € | 🔴 Verkaufen |
-| 10 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 73,42 € | 80.762 € | +74,81% | 66,00 € | ✅ Halten |
-| 11 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | 👁️ Beobachtung |
-| 13 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 130,70 € | 40.517 € | +0,70% | 118,00 € | ✅ Halten |
-| 14 | NVIDIA Corp. | 918422 | Aktie | 1 | 167,42 € | 193,30 € ¹ | 193 € | +15,46% | — | 👁️ Beobachtung |
-| 15 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 262,55 € | 76.140 € | +79,83% | 244,00 € | ✅ Halten |
-| 16 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | ✅ Halten |
-| 17 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ⁴ | 18.418 € | -22,31% | 59,72 € | ⚠️ Beobachten |
-| 18 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | ✅ Halten |
+| # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (25.05) | Wert | G/V % | Trail-Stop | G/V@Stop ⁵ | Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Advanced Micro Devices | 863186 | Aktie | 30 | 352,50 € | 402,65 € | 12.080 € | +14,23% | 373,00 € | **+4,8%** | ✅ Halten |
+| 2 | Ballard Power Systems | A0RENB | Aktie | 847 | 29,30 € | 4,78 € | 4.049 € | -83,69% | 3,15 € | **–89,4%** | 🔴 Verkaufen |
+| 3 | BBBank Dynamik Union | 532656 | Fonds | 48,62 | 46,81 € | 126,38 € ¹ | 6.145 € | +169,96% | 113,74 € | **+140,5%** | ✅ Halten |
+| 4 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 744,20 € | 40.931 € | +1,06% | 707,40 € | **–4,9%** | ⚠️ DRINGEND |
+| 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | 243,85 € | 36.578 € | +14,28% | 219,00 € | **+1,6%** | ✅ Halten |
+| 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | **–7,9%** | ⚠️ Beobachten |
+| 7 | Everspin Technologies | A2AS0X | Aktie | 1 | 40,00 € | ~34,38 € ³ | ~34 € | — | — | — | 👁️ Beobachtung |
+| 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 40,19 € ² | 30.424 € | +1,41% | 36,17 € | **–9,6%** | ✅ Halten |
+| 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,82% | 1,25 € | **–63,7%** | 🔴 Verkaufen |
+| 10 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 73,42 € | 80.762 € | +74,81% | 66,00 € | **+55,6%** | ✅ Halten |
+| 11 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | — | 👁️ Beobachtung |
+| 13 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 130,70 € | 40.517 € | +0,70% | 118,00 € | **–10,0%** | ✅ Halten |
+| 14 | NVIDIA Corp. | 918422 | Aktie | 1 | 167,42 € | 193,30 € ¹ | 193 € | +15,46% | — | — | 👁️ Beobachtung |
+| 15 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 262,55 € | 76.140 € | +79,83% | 244,00 € | **+65,5%** | ✅ Halten |
+| 16 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | **+280,3%** | ✅ Halten |
+| 17 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ⁴ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
+| 18 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ✅ Halten |
 
 > ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis für diesen Fonds abrufbar — BBBank, UniSector, Micron, NVIDIA).  
 > ² Schätzwert auf Basis letzter verfügbarer Daten (20.05.2026) — Fresenius.  
 > ³ Kurs ~39,86 USD vom 22.05.2026 (ca. 34,38 € bei EUR/USD 1,1594) — Beobachtungsposition.  
-> ⁴ Kurs vom 28.04.2026 (kein aktuellerer Preis für UniEuropa abrufbar).
+> ⁴ Kurs vom 28.04.2026 (kein aktuellerer Preis für UniEuropa abrufbar).  
+> ⁵ **G/V@Stop** = realisierter G/V-% wenn Trailing Stop ausgelöst wird. Berechnung: (Stop × 0,99 − Kaufkurs) / Kaufkurs. Der Abzug von 1% berücksichtigt Spread, Slippage und Orderkosten.
 
 ### Legende Beobachtungspositionen Depot 1
 > Positionen 7 (Everspin), 11 (Micron), 14 (Nvidia) sind **fiktive Beobachtungspositionen** (je 1 Stück) zur Kursverfolgung — kein aktives Risikomanagement erforderlich.
@@ -44,11 +45,11 @@
 
 **Einzahlung:** 68.600,00 € | **Wert (korrigiert):** ~118.837 € | **G/V:** +50.237 € (+73,2%)
 
-| # | Wertpapier | WKN | Typ | Einheiten | Kaufkurs | Kurs (25.05) | Wert | G/V % | Trail-Stop (empfohlen) | Status |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Moventum Plus Aktiv Ausg. | A0M2LB | Fonds | 2.224,951 | 8,99 € | 14,55 € ¹ | 32.373 € | +61,87% | 13,10 € | ⚠️ Stop setzen |
-| 2 | Silber 800 Unzen | — | Rohstoff | 800 oz | 18,75 €/oz | 65,07 €/oz | 52.056 € | +246,8% | 59,37 €/oz | 🔴 Klären & sichern |
-| 3 | UniOpti4 | A0KEBS | Fonds | 350,717 | 95,80 € | 98,15 € | 34.414 € | +2,45% | 89,08 € | ⚠️ Stop setzen |
+| # | Wertpapier | WKN | Typ | Einheiten | Kaufkurs | Kurs (25.05) | Wert | G/V % | Trail-Stop (empfohlen) | G/V@Stop ⁵ | Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Moventum Plus Aktiv Ausg. | A0M2LB | Fonds | 2.224,951 | 8,99 € | 14,55 € ¹ | 32.373 € | +61,87% | 13,10 € | **+44,3%** | ⚠️ Stop setzen |
+| 2 | Silber 800 Unzen | — | Rohstoff | 800 oz | 18,75 €/oz | 65,07 €/oz | 52.056 € | +246,8% | 59,37 €/oz | **+213,5%** | 🔴 Klären & sichern |
+| 3 | UniOpti4 | A0KEBS | Fonds | 350,717 | 95,80 € | 98,15 € | 34.414 € | +2,45% | 89,08 € | **–7,9%** | ⚠️ Stop setzen |
 
 > ¹ Kurs vom 18.05.2026 — Moventum (kein aktuellerer Preis abrufbar).
 
