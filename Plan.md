@@ -2,13 +2,13 @@
 
 **Letztes Update:** 25.05.2026  
 **Strategie:** Mittelmäßig risikoreich | **Absicherung:** 10% Trailing Stop  
-**Gesamtwert (bereinigt):** ~574.437 € | **Gesamtgewinn:** +151.379 € (+35,8%)
+**Gesamtwert (bereinigt):** ~573.637 € | **Gesamtgewinn:** +150.579 € (+35,6%)
 
 ---
 
 ## Depot 1 — BBBank eG (mit Trailing Stop)
 
-**Einzahlung:** 354.458,00 € | **Wert:** ~455.600 € | **G/V:** +101.142 € (+28,5%)
+**Einzahlung:** 354.458,00 € | **Wert:** ~454.800 € | **G/V:** +100.342 € (+28,3%)
 
 | # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (25.05) | Wert | G/V % | Trail-Stop | G/V@Stop ⁵ | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -18,26 +18,19 @@
 | 4 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 744,20 € | 40.931 € | +1,06% | 707,40 € | **–4,9%** | ⚠️ DRINGEND |
 | 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | 243,85 € | 36.578 € | +14,28% | 219,00 € | **+1,6%** | ✅ Halten |
 | 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | **–7,9%** | ⚠️ Beobachten |
-| 7 | Everspin Technologies | A2AS0X | Aktie | 1 | 40,00 € | ~34,38 € ³ | ~34 € | — | — | — | 👁️ Beobachtung |
-| 8 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 40,19 € ² | 30.424 € | +1,41% | 36,17 € | **–9,6%** | ✅ Halten |
-| 9 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,82% | 1,25 € | **–63,7%** | 🔴 Verkaufen |
-| 10 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 73,42 € | 80.762 € | +74,81% | 66,00 € | **+55,6%** | ✅ Halten |
-| 11 | Micron Technology | 869020 | Aktie | 1 | 526,00 € | 619,50 € ¹ | 620 € | +17,78% | — | — | 👁️ Beobachtung |
-| 13 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 130,70 € | 40.517 € | +0,70% | 118,00 € | **–10,0%** | ✅ Halten |
-| 14 | NVIDIA Corp. | 918422 | Aktie | 1 | 167,42 € | 193,30 € ¹ | 193 € | +15,46% | — | — | 👁️ Beobachtung |
-| 15 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 262,55 € | 76.140 € | +79,83% | 244,00 € | **+65,5%** | ✅ Halten |
-| 16 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | **+280,3%** | ✅ Halten |
-| 17 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ⁴ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
-| 18 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ✅ Halten |
+| 7 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 40,19 € ² | 30.424 € | +1,41% | 36,17 € | **–9,6%** | ✅ Halten |
+| 8 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,37 € | 411 € | -59,82% | 1,25 € | **–63,7%** | 🔴 Verkaufen |
+| 9 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 73,42 € | 80.762 € | +74,81% | 66,00 € | **+55,6%** | ✅ Halten |
+| 10 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 130,70 € | 40.517 € | +0,70% | 118,00 € | **–10,0%** | ✅ Halten |
+| 11 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 262,55 € | 76.140 € | +79,83% | 244,00 € | **+65,5%** | ✅ Halten |
+| 12 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | **+280,3%** | ✅ Halten |
+| 13 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ³ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
+| 14 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ✅ Halten |
 
-> ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis für diesen Fonds abrufbar — BBBank, UniSector, Micron, NVIDIA).  
+> ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis für diesen Fonds abrufbar — BBBank, UniSector).  
 > ² Schätzwert auf Basis letzter verfügbarer Daten (20.05.2026) — Fresenius.  
-> ³ Kurs ~39,86 USD vom 22.05.2026 (ca. 34,38 € bei EUR/USD 1,1594) — Beobachtungsposition.  
-> ⁴ Kurs vom 28.04.2026 (kein aktuellerer Preis für UniEuropa abrufbar).  
+> ³ Kurs vom 28.04.2026 (kein aktuellerer Preis für UniEuropa abrufbar).  
 > ⁵ **G/V@Stop** = realisierter G/V-% wenn Trailing Stop ausgelöst wird. Berechnung: (Stop × 0,99 − Kaufkurs) / Kaufkurs. Der Abzug von 1% berücksichtigt Spread, Slippage und Orderkosten.
-
-### Legende Beobachtungspositionen Depot 1
-> Positionen 7 (Everspin), 11 (Micron), 14 (Nvidia) sind **fiktive Beobachtungspositionen** (je 1 Stück) zur Kursverfolgung — kein aktives Risikomanagement erforderlich.
 
 ---
 
@@ -65,6 +58,8 @@
 | Novartis AG | 904278 | Healthcare | ✅ Gekauft | 310 Stück gekauft 19.05.2026 zu ~129,79 € (119,04 CHF). Stop 118 € (10% trailing). Kurs 25.05: ~130,70 € / 118,54 CHF — knapp im Plus. Q1-Prognose bestätigt, neue Daten Pluvicto & Kisqali. | — |
 | Netgear Inc. | 578078 | Netzwerk/Tech | 🟡 Beobachten | FCC-Ban Profiteur: einziger Anbieter mit Conditional Approval bis Okt. 2027. Kurs +16% am Ban-Tag (24.03.26) auf ~24,88 USD. Fundamental-Wende: Bruttomarge 38% (war 29%), Non-GAAP EPS +0,44 USD (war –0,91). Kurs unter Buchwert (~$50/Aktie). Risiken: Fertigung im Ausland, TP-Link plant US-Produktion, Approval läuft 2027 ab. Einstieg erst bei Rücksetzer sinnvoll. | 19–21 USD (nach Rücksetzer) |
 | Everspin Technologies | A2AS0X | Halbleiter/Rüstung | 🔴 Gelegenheit verpasst | ~39,86 USD (22.05) = ~34,38 € — durch $40M US-Navy-Vertrag (05.05) von $27 auf ~$40 gesurgt. Einstiegsziel $26–30 nicht mehr erreichbar ohne Rücksetzer >25%. Weiter beobachten. | $26–30 (USD) — aktuell unerreichbar |
+| Micron Technology | 869020 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~619,50 € (18.05, XETRA). KI-Memory-Boom (HBM3E für NVIDIA/AMD). Umsatz stark wachsend. Zyklisches Geschäft — auf Konsolidierung warten. | 450–500 € (nach Korrektur) |
+| NVIDIA Corp. | 918422 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~193,30 € (18.05, XETRA). Weltmarktführer KI-Chips (H100/B200). Sehr hohe Bewertung. Rücksetzer bei geopolitischen Risiken (China-Exportverbote) nutzen. | 140–160 € (nach starkem Rücksetzer) |
 | Rheinmetall AG | 703000 | Rüstung | 🟡 Beobachten | Rearm Europe 800 Mrd., stark gelaufen — Einstieg via ETF prüfen | Nach Konsolidierung |
 
 ---
