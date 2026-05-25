@@ -63,6 +63,7 @@
 | Wertpapier | WKN | Sektor | Interesse | Notiz | Ziel-Einstieg |
 |---|---|---|---|---|---|
 | Novartis AG | 904278 | Healthcare | ✅ Gekauft | 310 Stück gekauft 19.05.2026 zu ~129,79 € (119,04 CHF). Stop 118 € (10% trailing). Kurs 25.05: ~130,70 € / 118,54 CHF — knapp im Plus. Q1-Prognose bestätigt, neue Daten Pluvicto & Kisqali. | — |
+| Netgear Inc. | 578078 | Netzwerk/Tech | 🟡 Beobachten | FCC-Ban Profiteur: einziger Anbieter mit Conditional Approval bis Okt. 2027. Kurs +16% am Ban-Tag (24.03.26) auf ~24,88 USD. Fundamental-Wende: Bruttomarge 38% (war 29%), Non-GAAP EPS +0,44 USD (war –0,91). Kurs unter Buchwert (~$50/Aktie). Risiken: Fertigung im Ausland, TP-Link plant US-Produktion, Approval läuft 2027 ab. Einstieg erst bei Rücksetzer sinnvoll. | 19–21 USD (nach Rücksetzer) |
 | Everspin Technologies | A2AS0X | Halbleiter/Rüstung | 🔴 Gelegenheit verpasst | ~39,86 USD (22.05) = ~34,38 € — durch $40M US-Navy-Vertrag (05.05) von $27 auf ~$40 gesurgt. Einstiegsziel $26–30 nicht mehr erreichbar ohne Rücksetzer >25%. Weiter beobachten. | $26–30 (USD) — aktuell unerreichbar |
 | Rheinmetall AG | 703000 | Rüstung | 🟡 Beobachten | Rearm Europe 800 Mrd., stark gelaufen — Einstieg via ETF prüfen | Nach Konsolidierung |
 
