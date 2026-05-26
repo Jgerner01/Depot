@@ -2,7 +2,7 @@
 
 **Letztes Update:** 26.05.2026  
 **Strategie:** Mittelmäßig risikoreich | **Absicherung:** 10% Trailing Stop  
-**Gesamtwert (bereinigt):** ~586.300 € | **Gesamtgewinn:** +163.200 € (+38,6%)
+**Gesamtwert (bereinigt):** ~587.500 € | **Gesamtgewinn:** +164.400 € (+38,9%)
 
 > **Depotstruktur:** Depot 1 = Einzeltitel & Fonds mit aktivem Trailing Stop | Depot 2 = Fonds & Rohstoffe ohne aktiven Trailing Stop (bewusste Entscheidung)
 
@@ -10,27 +10,25 @@
 
 ## Depot 1 — BBBank eG (Einzeltitel mit Trailing Stop)
 
-**Einzahlung:** 337.721,00 € | **Wert:** ~397.972 € | **G/V:** +60.251 € (+17,8%)
+**Einzahlung:** 307.114,00 € | **Wert:** ~381.558 € + 17.577 € Cash | **G/V:** +74.444 € (+24,2%)
 
 | # | Wertpapier | WKN | Typ | Stück | Kaufkurs | Kurs (26.05) | Wert | G/V % | Trail-Stop | G/V@Stop ⁵ | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Advanced Micro Devices | 863186 | Aktie | 30 | 352,50 € | 408,90 € | 12.267 € | +16,01% | 373,00 € | **+4,8%** | ✅ Halten |
-| 2 | Ballard Power Systems | A0RENB | Aktie | 847 | 29,30 € | 4,81 € | 4.074 € | -83,60% | 3,15 € | **–89,4%** | 🔴 Verkaufen |
-| 3 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 770,20 € | 42.361 € | +4,59% | 707,40 € | **–4,9%** | ✅ Halten |
-| 4 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | ~257 € ⁶ | 38.550 € | +20,5% | 231,00 € | **+7,2%** | ✅ Halten |
-| 5 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | **–7,9%** | ⚠️ Beobachten |
-| 6 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 38,89 € ² | 29.440 € | -1,87% | 36,17 € | **–9,6%** | ⚠️ Beobachten |
-| 7 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,43 € | 429 € | -58,06% | 1,25 € | **–63,7%** | 🔴 Verkaufen |
-| 8 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 76,73 € | 84.403 € | +82,69% | 69,06 € | **+62,8%** | ✅ Halten |
-| 9 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 132,82 € | 41.174 € | +2,33% | 120,00 € | **–8,5%** | ✅ Halten |
-| 10 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 276,75 € | 80.258 € | +89,55% | 249,08 € | **+68,9%** | ✅ Halten |
-| 11 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ³ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
-| 12 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ⚠️ Beobachten |
+| 2 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 770,20 € | 42.361 € | +4,59% | 707,40 € | **–4,9%** | ✅ Halten |
+| 3 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | **–7,9%** | ⚠️ Beobachten |
+| 4 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 38,89 € ² | 29.440 € | -1,87% | 36,17 € | **–9,6%** | ⚠️ Beobachten |
+| 5 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,43 € | 429 € | -58,06% | 1,25 € | **–63,7%** | 🔴 Verkaufen |
+| 6 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 76,73 € | 84.403 € | +82,69% | 69,06 € | **+62,8%** | ✅ Halten |
+| 7 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 132,82 € | 41.174 € | +2,33% | 120,00 € | **–8,5%** | ✅ Halten |
+| 8 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 276,75 € | 80.258 € | +89,55% | 249,08 € | **+68,9%** | ✅ Halten |
+| 9 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ³ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
+| 10 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ⚠️ Beobachten |
+| 11 | Everspin Technologies | A2AS0X | Aktie | 1.000 | 26,21 € | 29,88 USD ≈ 26,21 € | 26.210 € | 0,00% | 23,58 € | **–10,0%** | ✅ Halten |
 
 > ² Kurs 26.05.2026, nach Ex-Dividende (1,05 € Dividende ausgezahlt 25.05.2026). Kaufkurs-Bezug auf Pre-Ex-Div-Basis.  
 > ³ Kurs vom 28.04.2026 (kein aktuellerer Preis für UniEuropa abrufbar).  
 > ⁵ **G/V@Stop** = realisierter G/V-% wenn Trailing Stop ausgelöst wird. Berechnung: (Stop × 0,99 − Kaufkurs) / Kaufkurs. Der Abzug von 1% berücksichtigt Spread, Slippage und Orderkosten.  
-> ⁶ **Dell-Kurs geschätzt** (26.05): NYSE DELL ~295 USD / EUR/USD ~1,15 ≈ 257 €. Stop vorläufig auf 231 € angehoben (war 219 €). Bitte XETRA-Kurs verifizieren!
 
 ---
 
@@ -61,7 +59,7 @@
 |---|---|---|---|---|---|
 | Novartis AG | 904278 | Healthcare | ✅ Gekauft | 310 Stück gekauft 19.05.2026 zu ~129,79 € (119,04 CHF). Stop auf **120 €** nachgezogen (war 118 €; 10%-Trailing: 132,82 × 0,90 = 119,54 → 120 €). Kurs 26.05: ~132,82 € / ca. 122 CHF. ASCO 2026: neue Daten Pluvicto, Kisqali, Scemblix, Ianalumab. | — |
 | Netgear Inc. | 578078 | Netzwerk/Tech | 🟡 Beobachten | FCC-Ban Profiteur: einziger Anbieter mit Conditional Approval bis Okt. 2027. Kurs +16% am Ban-Tag (24.03.26) auf ~24,88 USD. Fundamental-Wende: Bruttomarge 38% (war 29%), Non-GAAP EPS +0,44 USD (war –0,91). Kurs unter Buchwert (~$50/Aktie). Risiken: Fertigung im Ausland, TP-Link plant US-Produktion, Approval läuft 2027 ab. Einstieg erst bei Rücksetzer sinnvoll. | 19–21 USD (nach Rücksetzer) |
-| Everspin Technologies | A2AS0X | Halbleiter/Rüstung | 🔴 Beobachten | ~33,33 USD (26.05) — nach Short-Seller-Angriff (Kerrisdale Capital, 19.05) von 51,50 ATH (13.05) auf ~33 USD gefallen. US-Navy-Vertrag ($40M) solide. Einstiegsziel $26–30 rückt näher — bei Rücksetzer unter $30 nochmals prüfen. | $26–30 (USD) — ggf. erreichbar bei weiterem Rückgang |
+| Everspin Technologies | A2AS0X | Halbleiter/Rüstung | ✅ Gekauft | 1.000 Stk. gekauft 26.05.2026 zu 29,88 USD (~26,21 €/Stk. bei EUR/USD ~1,14). Einstieg im Zielbereich $26–30 nach Kerrisdale-Short-Attacke. Trailing Stop: 26,91 USD (~10%). US-Navy-Vertrag ($40M) solide. | — |
 | Micron Technology | 869020 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~619,50 € (18.05, XETRA). KI-Memory-Boom (HBM3E für NVIDIA/AMD). Umsatz stark wachsend. Zyklisches Geschäft — auf Konsolidierung warten. | 450–500 € (nach Korrektur) |
 | NVIDIA Corp. | 918422 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~193,30 € (18.05, XETRA). Weltmarktführer KI-Chips (H100/B200). Sehr hohe Bewertung. Rücksetzer bei geopolitischen Risiken (China-Exportverbote) nutzen. | 140–160 € (nach starkem Rücksetzer) |
 | Rheinmetall AG | 703000 | Rüstung | 🟡 Beobachten | Rearm Europe 800 Mrd., stark gelaufen — Einstieg via ETF prüfen | Nach Konsolidierung |
@@ -74,10 +72,10 @@
 |---|---|---|---|
 | ⚠️ Beobachten | **Stop überwachen** | Elmos Semiconductor | 15%-Trailing-Stop bei 160 € (gesetzt 13.05, Ref.-Kurs ~188 €). Kurs 180,80 € = +13,0% über Stop. **HV 27.05.2026, Dividende 1,50 € ex 28.05.2026** — nach Ex-Div Kursabschlag ~1,50 €; Stop bleibt bei 160 €, kein Handlungsbedarf. |
 | ⚠️ Beobachten | **Kurs prüfen** | UniEuropa Mid&Small Caps | Letzter Kurs 63,61 € (28.04) — nur 6,5% über Stop 59,72 €. Aktuellen Fondsanteilspreis bei Union Investment abrufen. |
-| 🔴 Sofort | **Verkaufen** | Ballard Power | -83,6%; Weichai verkauft kontinuierlich Anteile (Mai 2026, Rule-144-Verkäufe); strukturell nicht erholt; kein Halten sinnvoll |
+| ✅ Erledigt | **Verkauft** | Ballard Power | 847 Stk. zu 4,77 € = 4.040 € Erlös. Realisierter Verlust: **−20.777 € (−83,7%)**. |
 | 🔴 Sofort | **Verkaufen** | Heidelberger Druck | -58,1%; Q4-EBITDA-Marge 5,4%; anhaltender Abwärtstrend, ONBERG-JV als Diversifikation unzureichend |
 | 🔴 Sofort | **Silber-Zertifikat klären** | Depot 2 | Nicht gelistet, Wert nicht direkt abrufbar. Stop 59,37 → 60,38 €/oz nachgezogen (Kurs +3,1%). ETC-Übertragung dringend! |
-| ⚠️ Dringend | **Kurs verifizieren & Stop anpassen** | Dell Technologies | Kurs ~257 € geschätzt (NYSE $295/EUR/USD 1,15); neues ATH-Signal (26.05). Stop vorläufig 219→231 € angehoben. **XETRA-Schlusskurs bestätigen!** |
+| ✅ Erledigt | **Verkauft** | Dell Technologies | 150 Stk. zu 264,98 € = 39.747 € Erlös. Realisierter Gewinn: **+7.748 € (+24,2%)**. |
 | ✅ Entschärft | **Stop angepasst** | Caterpillar | War ⚠️ DRINGEND (4,95% Puffer am 25.05). Jetzt: Kurs 770,20 €, Puffer **8,8%** über Stop 707,40 € — nicht mehr kritisch. |
 | ✅ Aktualisiert | **Stop nachgezogen** | Infineon Technologies | Neues 26-Jahres-Hoch 76,73 € (25.05) → Stop **66,00 → 69,06 €** nachgezogen. Puffer: 11,1%. |
 | ✅ Aktualisiert | **Stop nachgezogen** | Siemens AG | Neues ATH 276,75 € (25.05, übertrifft 271,60 € v. 14.05) → Stop **244,00 → 249,08 €** nachgezogen. Puffer: 10,0%. Mermec-Übernahme (21.05), UBS/JPMorgan Kursziel 335 €. |
@@ -98,15 +96,15 @@
 | Kennzahl | Wert |
 |---|---|
 | Gesamtinvestiert | 423.058,00 € |
-| Gesamtwert (bereinigt inkl. Silber) | **~586.300 €** |
-| Gesamtgewinn (unrealisiert) | **+163.200 € (+38,6%)** |
-| Realisierte G/V (kumuliert) | Nokia: +1.652 € ✅ \| Siemens Energy: –1.160 € ❌ \| Viavi: +7.909 € ✅ \| Netto: **+8.401 €** |
+| Gesamtwert (bereinigt inkl. Silber) | **~587.500 €** |
+| Gesamtgewinn (unrealisiert+realisiert) | **+164.400 € (+38,9%)** |
+| Realisierte G/V (kumuliert) | Nokia: +1.652 € ✅ \| Siemens Energy: –1.160 € ❌ \| Viavi: +7.909 € ✅ \| Dell: +7.748 € ✅ \| Ballard: –20.777 € ❌ \| Netto: **–4.628 €** |
 | Größte Position | Infineon (84.403 €, 14,4%) |
 | Stärkster Performer | Silber (+257,8%) |
-| Schwächster Performer | Ballard Power (–83,6%) |
+| Schwächster Performer | Heidelberger Druck (–58,1%) — Ballard mit –83,7% realisiert |
 | Tech-Anteil | ~62% (Ziel: max. 40%) |
 | Trailing-Stop-Schutz | Depot 1: ✅ (Aktien) \| Depot 2: ❌ bewusst (BBBank, UniSector, UniOpti4) \| Silber: 🔴 ETC-Übertragung ausstehend |
-| Aktuellste Warnung | ✅ CAT entschärft (8,8% Puffer) \| ⚠️ Dell-Kurs unsicher (~257 €, Stop→231 €, bitte verifizieren!) \| ⚠️ Elmos HV 27.05, Ex-Div 28.05 (1,50 €) \| ⚠️ UniEuropa nur 6,5% über Stop \| ⚠️ Fresenius 7,6% über Stop \| ⚠️ Süss MicroTec 6,4% über Stop |
+| Aktuellste Warnung | ⚠️ Elmos HV 27.05, Div.-Ex 28.05 \| ⚠️ UniEuropa 6,5% über Stop \| ⚠️ Fresenius 7,6% über Stop \| ⚠️ Süss MicroTec 6,4% über Stop |
 
 ---
 
@@ -114,6 +112,9 @@
 
 | Datum | Änderung |
 |---|---|
+| 26.05.2026 | **Everspin Technologies (A2AS0X) gekauft:** 1.000 Stk. zu 29,88 USD = ~26,21 €/Stk. = **26.210 € Einstandswert** (EUR/USD ~1,14). Einstieg im Zielbereich $26–30 nach Kerrisdale-Capital-Short-Angriff (19.05) — Kurs von ATH $51,50 (13.05) auf ~$30 gefallen. US-Navy-Vertrag ($40M, 2,5 Jahre) fundamentell solide. Trailing Stop: **26,91 USD (~10%)**. Position in Depot 1 eingetragen. |
+| 26.05.2026 | **Dell Technologies verkauft:** 150 Stk. zu 264,98 € = **39.747 € Erlös**. Realisierter Gewinn: **+7.748 € (+24,2%)** (EK 213,33 €). Verkauf nahe ATH (~264,98 €). Position aus Depot 1 entfernt. |
+| 26.05.2026 | **Ballard Power Systems verkauft:** 847 Stk. zu 4,77 € = **4.040 € Erlös**. Realisierter Verlust: **–20.777 € (−83,7%)** (EK 29,30 €). Verkaufsempfehlung ausgeführt. Position aus Depot 1 entfernt. Realisierte G/V kumuliert: Nokia +1.652 / SiemEn –1.160 / Viavi +7.909 / Dell +7.748 / Ballard –20.777 = **Netto –4.628 €**. |
 | 26.05.2026 | **Tagescheck (Ergänzung):** Novartis Stop **118→120 €** nachgezogen (Kurs 132,82 €, G/V@Stop –8,5%); Fresenius SE + Süss MicroTec Status auf **⚠️ Beobachten** aktualisiert (Puffer 7,6% bzw. 6,4%); Siemens AG: Mermec-Übernahme (21.05) + UBS/JPMorgan Kursziel 335 € vermerkt. |
 | 26.05.2026 | **Depotumstrukturierung:** **BBBank Dynamik Union** (532656) und **UniSector HighTech A** (921559) aus Depot 1 in Depot 2 verschoben. Gemeinsam mit **UniOpti4** (bereits D2) werden diese drei Fonds vorläufig **ohne Trailing Stop** geführt. Depot 1 jetzt 12 Positionen (nur Aktien + UniEuropa); Depot 2 jetzt 5 Positionen. Depot-1-Einzahlung: 354.458 → **337.721 €**; Depot-2-Einzahlung: 68.600 → **85.337 €**. Gesamtwert unverändert ~586.300 €. |
 | 26.05.2026 | Tagescheck: 🚀 **Infineon** neues 26-Jahres-Hoch 76,73 € (+12,84% auf Wochenbasis) → Stop nachgezogen **66→69,06 €** (Puffer 11,1%). 🚀 **Siemens AG** neues ATH 276,75 € (übertrifft 271,60 € v. 14.05) → Stop nachgezogen **244→249,08 €** (Puffer 10,0%). 🚀 **Dell** neues ATH-Signal (26.05, NYSE $295/EUR/USD 1,15 ≈ 257 €) → Stop vorläufig **219→231 €** (XETRA-Kurs bestätigen!). ✅ **Caterpillar-Dringlichkeit aufgelöst**: Kurs 770,20 € → Puffer nun 8,8% (war 4,95%). 📈 **Silber** gestiegen auf 67,09 €/oz (+3,1% ggü. 65,07 €) → Stop nachgezogen **59,37→60,38 €/oz**; Wert 800 oz = 53.672 €. 📈 **AMD** 408,90 € (leichte Korrektur von ATH 414,60 €; Stop 373 € unverändert, Puffer 9,6%). 📈 **Novartis** 132,82 € (+2,3%), ~122 CHF; Einstiegsziel 120 CHF übertroffen. 📈 **Heidelberger Druck** +5,53% auf 1,43 € am 25.05 — **Verkaufsempfehlung bleibt** (–58%, strukturell). 💰 **Fresenius**: 38,89 € (post-ex-div, 1,05 € ausgezahlt 25.05.2026); Stop 36,17 € = 7,5% Puffer, ✅ Halten. ℹ️ **Elmos HV 27.05.2026**: Dividende 1,50 €/Aktie, Ex-Tag 28.05, Zahltag 01.06 — kein Stop-Handlungsbedarf (Stop 160 €, Puffer 13%). 📰 **Ballard Power**: Weichai verkauft weiter (Mai 2026, 15 Mio. Anteile seit April zu ~$4); Analysten (Lake Street, TD Cowen) heben Ziele an, bleiben bullish auf Q1-Turnaround — **Verkaufsempfehlung bleibt** (strukturell –83,6%). 📰 **Everspin (MRAM)**: Kurs ~33,33 USD (26.05), gefallen von ATH 51,50 USD (13.05) durch Kerrisdale-Short-Angriff (19.05, –11% intraday); US-Navy-Vertrag ($40M) solide — Einstiegsziel $26–30 rückt wieder näher, weiter beobachten. 📰 **Siemens Energy** (verkauft): Kurs ~180 € (Mai 2026, dritter DAX-Platz), Auftragsrekord Q2 17,7 Mrd. €, Prognose 14–16% Wachstum erhöht — Verkauf zu 168 € (21.05) im Nachhinein ggf. zu früh. **Nokia** (verkauft): 10-Jahres-Hoch 13,28 € bestätigt, Morgan Stanley Ziel 14 €, AI-Networking-Lab. EUR/USD: ~1,15 (26.05). Gesamtdepot: ~586.300 € (+163.200 €, +38,6%). |
