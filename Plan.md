@@ -40,16 +40,16 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | BBBank Dynamik Union | 532656 | Fonds | 48,62 | 46,81 € | 126,38 € ¹ | 6.145 € | +169,96% | — (kein Stop) | ✅ Halten |
 | 2 | Moventum Plus Aktiv Ausg. | A0M2LB | Fonds | 2.224,951 | 8,99 € | 14,55 € ¹ | 32.373 € | +61,87% | — (kein Stop) | ⚠️ Stop empfohlen |
-| 3 | Silber 800 Unzen | — | Rohstoff | 800 oz | 18,75 €/oz | 67,09 €/oz | 53.672 € | +257,8% | 60,38 €/oz ⁴ | 🔴 Klären & sichern |
+| 3 | WisdomTree Physical Silver | A1KWPR | ETC | 800 oz Äquiv. | 18,75 €/oz | 67,09 €/oz | 53.672 € | +257,8% | 60,38 €/oz ⁴ | ✅ Halten |
 | 4 | UniOpti4 | A0KEBS | Fonds | 350,717 | 95,80 € | 98,15 € | 34.414 € | +2,45% | — (kein Stop) | ✅ Halten |
 | 5 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | — (kein Stop) | ✅ Halten |
 
 > ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis abrufbar — BBBank, UniSector HighTech A, Moventum).  
-> ⁴ Silber-Stop **empfohlen** (nicht im Depot aktiv, da Zertifikat nicht gelistet) — ETC-Übertragung ausstehend.
+> ⁴ Silber-Trailing-Stop **aktiv** bei 60,38 €/oz (10% Trailing; ATH 67,09 €/oz). ETC-Übertragung abgeschlossen (WKN A1KWPR, WisdomTree Physical Silver, ISIN JE00B4NCWG09).
 
 ### Hinweise Depot 2
 > **Struktur:** BBBank Dynamik Union, UniSector HighTech A und UniOpti4 werden **bewusst ohne Trailing Stop** geführt (Entscheidung 26.05.2026). Moventum Plus ist ebenfalls ohne Stop — dort wird ein Stop empfohlen, sobald der Kurs aktualisiert werden kann.  
-> **Silber:** Position ist als **Notreserve** ausgewiesen. Wird im Depot mit €0 angezeigt (Zertifikat nicht mehr gelistet). Tatsächlicher Wert: 800 oz × 67,09 € = **53.672 €**. Zertifikat auf gelistetes ETC übertragen (z.B. WisdomTree Physical Silver, ISIN: JE00B4NCWG09). ⚠️ Kurs 11,1% über empfohlenem Stop (60,38 €) — ETC-Übertragung dringend!
+> **Silber:** Position als **WisdomTree Physical Silver ETC** (WKN A1KWPR, ISIN JE00B4NCWG09) gelistet. Tatsächlicher Wert: 800 oz × 67,09 € = **53.672 €**. Trailing Stop aktiv: **60,38 €/oz** (10%; Puffer aktuell 11,1%). Kurs über Broker überwachen.
 
 ---
 
@@ -74,7 +74,7 @@
 | ⚠️ Beobachten | **Kurs prüfen** | UniEuropa Mid&Small Caps | Letzter Kurs 63,61 € (28.04) — nur 6,5% über Stop 59,72 €. Aktuellen Fondsanteilspreis bei Union Investment abrufen. |
 | ✅ Erledigt | **Verkauft** | Ballard Power | 847 Stk. zu 4,77 € = 4.040 € Erlös. Realisierter Verlust: **−20.777 € (−83,7%)**. |
 | 🔴 Sofort | **Verkaufen** | Heidelberger Druck | -58,1%; Q4-EBITDA-Marge 5,4%; anhaltender Abwärtstrend, ONBERG-JV als Diversifikation unzureichend |
-| 🔴 Sofort | **Silber-Zertifikat klären** | Depot 2 | Nicht gelistet, Wert nicht direkt abrufbar. Stop 59,37 → 60,38 €/oz nachgezogen (Kurs +3,1%). ETC-Übertragung dringend! |
+| ✅ Erledigt | **ETC-Übertragung abgeschlossen** | Depot 2 — Silber | WKN A1KWPR (WisdomTree Physical Silver) eingetragen. Trailing Stop 60,38 €/oz aktiv. |
 | ✅ Erledigt | **Verkauft** | Dell Technologies | 150 Stk. zu 264,98 € = 39.747 € Erlös. Realisierter Gewinn: **+7.748 € (+24,2%)**. |
 | ✅ Entschärft | **Stop angepasst** | Caterpillar | War ⚠️ DRINGEND (4,95% Puffer am 25.05). Jetzt: Kurs 770,20 €, Puffer **8,8%** über Stop 707,40 € — nicht mehr kritisch. |
 | ✅ Aktualisiert | **Stop nachgezogen** | Infineon Technologies | Neues 26-Jahres-Hoch 76,73 € (25.05) → Stop **66,00 → 69,06 €** nachgezogen. Puffer: 11,1%. |
@@ -103,7 +103,7 @@
 | Stärkster Performer | Silber (+257,8%) |
 | Schwächster Performer | Heidelberger Druck (–58,1%) — Ballard mit –83,7% realisiert |
 | Tech-Anteil | ~62% (Ziel: max. 40%) |
-| Trailing-Stop-Schutz | Depot 1: ✅ (Aktien) \| Depot 2: ❌ bewusst (BBBank, UniSector, UniOpti4) \| Silber: 🔴 ETC-Übertragung ausstehend |
+| Trailing-Stop-Schutz | Depot 1: ✅ (Aktien) \| Depot 2: Silber ✅ aktiv (60,38 €/oz) \| BBBank/UniSector/UniOpti4: ❌ bewusst |
 | Aktuellste Warnung | ⚠️ Elmos HV 27.05, Div.-Ex 28.05 \| ⚠️ UniEuropa 6,5% über Stop \| ⚠️ Fresenius 7,6% über Stop \| ⚠️ Süss MicroTec 6,4% über Stop |
 
 ---
@@ -112,6 +112,7 @@
 
 | Datum | Änderung |
 |---|---|
+| 26.05.2026 | **Silber ETC-Übertragung abgeschlossen:** WisdomTree Physical Silver (WKN **A1KWPR**, ISIN JE00B4NCWG09) in Depot 2 eingetragen. 800 oz-Äquivalent, Kurs 67,09 €/oz = 53.672 €. Trailing Stop **60,38 €/oz** (10%) jetzt aktiv. Empfehlung 🔴→✅ erledigt. |
 | 26.05.2026 | **Everspin Technologies (A2AS0X) gekauft:** 1.000 Stk. zu 29,88 USD = ~26,21 €/Stk. = **26.210 € Einstandswert** (EUR/USD ~1,14). Einstieg im Zielbereich $26–30 nach Kerrisdale-Capital-Short-Angriff (19.05) — Kurs von ATH $51,50 (13.05) auf ~$30 gefallen. US-Navy-Vertrag ($40M, 2,5 Jahre) fundamentell solide. Trailing Stop: **26,91 USD (~10%)**. Position in Depot 1 eingetragen. |
 | 26.05.2026 | **Dell Technologies verkauft:** 150 Stk. zu 264,98 € = **39.747 € Erlös**. Realisierter Gewinn: **+7.748 € (+24,2%)** (EK 213,33 €). Verkauf nahe ATH (~264,98 €). Position aus Depot 1 entfernt. |
 | 26.05.2026 | **Ballard Power Systems verkauft:** 847 Stk. zu 4,77 € = **4.040 € Erlös**. Realisierter Verlust: **–20.777 € (−83,7%)** (EK 29,30 €). Verkaufsempfehlung ausgeführt. Position aus Depot 1 entfernt. Realisierte G/V kumuliert: Nokia +1.652 / SiemEn –1.160 / Viavi +7.909 / Dell +7.748 / Ballard –20.777 = **Netto –4.628 €**. |
