@@ -25,7 +25,7 @@
 | 9 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ³ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
 | 10 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ⚠️ Beobachten |
 | 11 | Everspin Technologies | A2AS0X | Aktie | 1.000 | 26,21 € | 29,88 USD ≈ 26,21 € | 26.210 € | 0,00% | 23,58 € | **–10,0%** | ✅ Halten |
-| 12 | Rheinmetall AG | 703000 | Aktie | 10 | 1.240,00 € | 1.240,00 € | 12.400 € | 0,00% | 1.116,00 € | **–10,9%** | ✅ Halten |
+| 12 | Rheinmetall AG | 703000 | Aktie | 10 | 1.240,00 € | 1.240,00 € | 12.400 € | 0,00% | 1.000,00 € | **–20,2%** | ✅ Halten |
 
 > ² Kurs 26.05.2026, nach Ex-Dividende (1,05 € Dividende ausgezahlt 25.05.2026). Kaufkurs-Bezug auf Pre-Ex-Div-Basis.  
 > ³ Kurs vom 28.04.2026 (kein aktuellerer Preis für UniEuropa abrufbar).  
@@ -63,7 +63,7 @@
 | Everspin Technologies | A2AS0X | Halbleiter/Rüstung | ✅ Gekauft | 1.000 Stk. gekauft 26.05.2026 zu 29,88 USD (~26,21 €/Stk. bei EUR/USD ~1,14). Einstieg im Zielbereich $26–30 nach Kerrisdale-Short-Attacke. Trailing Stop: 26,91 USD (~10%). US-Navy-Vertrag ($40M) solide. | — |
 | Micron Technology | 869020 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~619,50 € (18.05, XETRA). KI-Memory-Boom (HBM3E für NVIDIA/AMD). Umsatz stark wachsend. Zyklisches Geschäft — auf Konsolidierung warten. | 450–500 € (nach Korrektur) |
 | NVIDIA Corp. | 918422 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~193,30 € (18.05, XETRA). Weltmarktführer KI-Chips (H100/B200). Sehr hohe Bewertung. Rücksetzer bei geopolitischen Risiken (China-Exportverbote) nutzen. | 140–160 € (nach starkem Rücksetzer) |
-| Rheinmetall AG | 703000 | Rüstung | ✅ Gekauft | 10 Stk. gekauft 26.05.2026 zu 1.240 € (–40% vom ATH ~2.060 €). Trailing Stop: **1.116 € (–10%)**. 21 Analysten Kaufen, Kursziel Ø 2.009 €. Rearm Europe 800 Mrd. — struktureller Megatrend. | — |
+| Rheinmetall AG | 703000 | Rüstung | ✅ Gekauft | 10 Stk. gekauft 26.05.2026 zu 1.240 € (–40% vom ATH ~2.060 €). Trailing Stop: **1.000 € (19% Puffer, 10% Trailing)**. 21 Analysten Kaufen, Kursziel Ø 2.009 €. Rearm Europe 800 Mrd. — struktureller Megatrend. | — |
 
 ---
 
@@ -113,7 +113,7 @@
 
 | Datum | Änderung |
 |---|---|
-| 26.05.2026 | **Rheinmetall AG (703000) gekauft:** 10 Stk. zu 1.240 € = **12.400 € Einstandswert**. Einstieg bei –40% vom ATH (~2.060 €), Bodenbildung nach Erwartungs-Miss Q1. Trailing Stop: **1.116 € (–10%)**. 21 Analysten Kaufen, Ø-Kursziel 2.009 € (+62%). Rearm-Europe-Megatrend strukturell intakt. Depot 1: 12 Positionen | Einzahlung 319.514 € | Cash-Rest: 5.177 €. |
+| 26.05.2026 | **Rheinmetall AG (703000) gekauft:** 10 Stk. zu 1.240 € = **12.400 € Einstandswert**. Einstieg bei –40% vom ATH (~2.060 €), Bodenbildung nach Erwartungs-Miss Q1. Trailing Stop: **1.000 € (19% Puffer, 10% Trailing)**. 21 Analysten Kaufen, Ø-Kursziel 2.009 € (+62%). Rearm-Europe-Megatrend strukturell intakt. Depot 1: 12 Positionen | Einzahlung 319.514 € | Cash-Rest: 5.177 €. |
 | 26.05.2026 | **Silber ETC-Übertragung abgeschlossen:** WisdomTree Physical Silver (WKN **A1KWPR**, ISIN JE00B4NCWG09) in Depot 2 eingetragen. 800 oz-Äquivalent, Kurs 67,09 €/oz = 53.672 €. Trailing Stop **60,38 €/oz** (10%) jetzt aktiv. Empfehlung 🔴→✅ erledigt. |
 | 26.05.2026 | **Everspin Technologies (A2AS0X) gekauft:** 1.000 Stk. zu 29,88 USD = ~26,21 €/Stk. = **26.210 € Einstandswert** (EUR/USD ~1,14). Einstieg im Zielbereich $26–30 nach Kerrisdale-Capital-Short-Angriff (19.05) — Kurs von ATH $51,50 (13.05) auf ~$30 gefallen. US-Navy-Vertrag ($40M, 2,5 Jahre) fundamentell solide. Trailing Stop: **26,91 USD (~10%)**. Position in Depot 1 eingetragen. |
 | 26.05.2026 | **Dell Technologies verkauft:** 150 Stk. zu 264,98 € = **39.747 € Erlös**. Realisierter Gewinn: **+7.748 € (+24,2%)** (EK 213,33 €). Verkauf nahe ATH (~264,98 €). Position aus Depot 1 entfernt. |
