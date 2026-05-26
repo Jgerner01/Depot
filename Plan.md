@@ -18,14 +18,14 @@
 | 4 | Caterpillar Inc. | 850598 | Aktie | 55 | 736,36 € | 770,20 € | 42.361 € | +4,59% | 707,40 € | **–4,9%** | ✅ Halten |
 | 5 | Dell Technologies | A2N6WP | Aktie | 150 | 213,33 € | ~257 € ⁶ | 38.550 € | +20,5% | 231,00 € | **+7,2%** | ✅ Halten |
 | 6 | Elmos Semiconductor | 567710 | Aktie | 150 | 172,00 € | 180,80 € | 27.120 € | +5,12% | 160,00 € | **–7,9%** | ⚠️ Beobachten |
-| 7 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 38,89 € ² | 29.440 € | -1,87% | 36,17 € | **–9,6%** | ✅ Halten |
+| 7 | Fresenius SE | 578560 | Aktie | 757 | 39,63 € | 38,89 € ² | 29.440 € | -1,87% | 36,17 € | **–9,6%** | ⚠️ Beobachten |
 | 8 | Heidelberger Druckmasch. | 731400 | Aktie | 300 | 3,41 € | 1,43 € | 429 € | -58,06% | 1,25 € | **–63,7%** | 🔴 Verkaufen |
 | 9 | Infineon Technologies | 623100 | Aktie | 1.100 | 42,00 € | 76,73 € | 84.403 € | +82,69% | 69,06 € | **+62,8%** | ✅ Halten |
-| 10 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 132,82 € | 41.174 € | +2,33% | 118,00 € | **–10,0%** | ✅ Halten |
+| 10 | Novartis AG | 904278 | Aktie | 310 | 129,79 € | 132,82 € | 41.174 € | +2,33% | 120,00 € | **–8,5%** | ✅ Halten |
 | 11 | Siemens AG | 723610 | Aktie | 290 | 146,00 € | 276,75 € | 80.258 € | +89,55% | 249,08 € | **+68,9%** | ✅ Halten |
 | 12 | UniSector: HighTech A | 921559 | Fonds | 165 | 87,64 € | 374,04 € ¹ | 61.717 € | +326,81% | 336,64 € | **+280,3%** | ✅ Halten |
 | 13 | UniEuropa Mid&Small Caps | 988567 | Fonds | 289,62 | 81,88 € | 63,61 € ³ | 18.418 € | -22,31% | 59,72 € | **–27,8%** | ⚠️ Beobachten |
-| 14 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ✅ Halten |
+| 14 | Süss MicroTec SE | A1K023 | Aktie | 218 | 90,00 € | 89,35 € | 19.478 € | -0,72% | 84,00 € | **–7,6%** | ⚠️ Beobachten |
 
 > ¹ Kurs vom 18.05.2026 (kein aktuellerer Preis abrufbar — BBBank, UniSector).  
 > ² Kurs 26.05.2026, nach Ex-Dividende (1,05 € Dividende ausgezahlt 25.05.2026). Kaufkurs-Bezug auf Pre-Ex-Div-Basis.  
@@ -56,7 +56,7 @@
 
 | Wertpapier | WKN | Sektor | Interesse | Notiz | Ziel-Einstieg |
 |---|---|---|---|---|---|
-| Novartis AG | 904278 | Healthcare | ✅ Gekauft | 310 Stück gekauft 19.05.2026 zu ~129,79 € (119,04 CHF). Stop 118 € (10% trailing). Kurs 26.05: ~132,82 € / ca. 122 CHF — im Plus. Q1-Prognose bestätigt, neue Daten Pluvicto & Kisqali. Einstiegsziel von 120 CHF überschritten. | — |
+| Novartis AG | 904278 | Healthcare | ✅ Gekauft | 310 Stück gekauft 19.05.2026 zu ~129,79 € (119,04 CHF). Stop auf **120 €** nachgezogen (war 118 €; 10%-Trailing: 132,82 × 0,90 = 119,54 → 120 €). Kurs 26.05: ~132,82 € / ca. 122 CHF. ASCO 2026: neue Daten Pluvicto, Kisqali, Scemblix, Ianalumab. | — |
 | Netgear Inc. | 578078 | Netzwerk/Tech | 🟡 Beobachten | FCC-Ban Profiteur: einziger Anbieter mit Conditional Approval bis Okt. 2027. Kurs +16% am Ban-Tag (24.03.26) auf ~24,88 USD. Fundamental-Wende: Bruttomarge 38% (war 29%), Non-GAAP EPS +0,44 USD (war –0,91). Kurs unter Buchwert (~$50/Aktie). Risiken: Fertigung im Ausland, TP-Link plant US-Produktion, Approval läuft 2027 ab. Einstieg erst bei Rücksetzer sinnvoll. | 19–21 USD (nach Rücksetzer) |
 | Everspin Technologies | A2AS0X | Halbleiter/Rüstung | 🔴 Beobachten | ~33,33 USD (26.05) — nach Short-Seller-Angriff (Kerrisdale Capital, 19.05) von 51,50 ATH (13.05) auf ~33 USD gefallen. US-Navy-Vertrag ($40M) solide. Einstiegsziel $26–30 rückt näher — bei Rücksetzer unter $30 nochmals prüfen. | $26–30 (USD) — ggf. erreichbar bei weiterem Rückgang |
 | Micron Technology | 869020 | Halbleiter/KI | 🟡 Beobachten | Aus Depot-1-Beobachtungsposition überführt. Kurs ~619,50 € (18.05, XETRA). KI-Memory-Boom (HBM3E für NVIDIA/AMD). Umsatz stark wachsend. Zyklisches Geschäft — auf Konsolidierung warten. | 450–500 € (nach Korrektur) |
@@ -69,6 +69,8 @@
 
 | Priorität | Maßnahme | Position | Begründung |
 |---|---|---|---|
+| ⚠️ Beobachten | **Stop überwachen** | Süss MicroTec | Kurs 89,35 €, Stop 84 €: **6,4% Puffer** (innerhalb 10%-Warnschwelle). ATH 93,25 € (14.05). |
+| ⚠️ Beobachten | **Stop überwachen** | Fresenius SE | Kurs 38,89 € (post-ex-div 25.05), Stop 36,17 €: **7,6% Puffer**. Abwärtstrend seit März (–16,7%). 52-Woch-Tief 38,35 € (13.05). |
 | ⚠️ Beobachten | **Stop überwachen** | Elmos Semiconductor | 15%-Trailing-Stop bei 160 € (gesetzt 13.05, Ref.-Kurs ~188 €). Kurs 180,80 € = +13,0% über Stop. **HV 27.05.2026, Dividende 1,50 € ex 28.05.2026** — nach Ex-Div Kursabschlag ~1,50 €; Stop bleibt bei 160 €, kein Handlungsbedarf. |
 | ⚠️ Beobachten | **Kurs prüfen** | UniEuropa Mid&Small Caps | Letzter Kurs 63,61 € (28.04) — nur 6,5% über Stop 59,72 €. Aktuellen Fondsanteilspreis bei Union Investment abrufen. |
 | 🔴 Sofort | **Verkaufen** | Ballard Power | -83,6%; Weichai verkauft kontinuierlich Anteile (Mai 2026, Rule-144-Verkäufe); strukturell nicht erholt; kein Halten sinnvoll |
@@ -77,7 +79,8 @@
 | ⚠️ Dringend | **Kurs verifizieren & Stop anpassen** | Dell Technologies | Kurs ~257 € geschätzt (NYSE $295/EUR/USD 1,15); neues ATH-Signal (26.05). Stop vorläufig 219→231 € angehoben. **XETRA-Schlusskurs bestätigen!** |
 | ✅ Entschärft | **Stop angepasst** | Caterpillar | War ⚠️ DRINGEND (4,95% Puffer am 25.05). Jetzt: Kurs 770,20 €, Puffer **8,8%** über Stop 707,40 € — nicht mehr kritisch. |
 | ✅ Aktualisiert | **Stop nachgezogen** | Infineon Technologies | Neues 26-Jahres-Hoch 76,73 € (25.05) → Stop **66,00 → 69,06 €** nachgezogen. Puffer: 11,1%. |
-| ✅ Aktualisiert | **Stop nachgezogen** | Siemens AG | Neues ATH 276,75 € (25.05, übertrifft 271,60 € v. 14.05) → Stop **244,00 → 249,08 €** nachgezogen. Puffer: 10,0%. |
+| ✅ Aktualisiert | **Stop nachgezogen** | Siemens AG | Neues ATH 276,75 € (26.05, übertrifft 271,60 € v. 14.05) → Stop **244,00 → 249,08 €** nachgezogen. Puffer: 10,0%. Mermec-Übernahme (21.05), UBS/JPMorgan Kursziel 335 €. |
+| ✅ Aktualisiert | **Stop nachgezogen** | Novartis AG | Kurs 132,82 € → Stop **118,00 → 120,00 €** (10%-Trailing). G/V@Stop: –8,5% (war –10,0%). |
 | ✅ Aktualisiert | **Stop nachgezogen** | Silber | Kurs 65,07→67,09 €/oz (+3,1%) → Stop **59,37→60,38 €/oz** nachgezogen. |
 | 🟠 Kurzfristig | **Trailing Stops setzen** | Depot 2 (alle) | Kein aktiver Stop-Schutz für Moventum & UniOpti4 vorhanden |
 | 🟠 Kurzfristig | **Tech-Anteil reduzieren** | Depot 1 | ~62% Tech für mittl. Risiko zu hoch (Ziel: max. 40%) |
